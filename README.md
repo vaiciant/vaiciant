@@ -1,4 +1,5 @@
-Hello, I'm Vicente Barrenechea, Fullstack Developer.
+Hello, I'm Vicente Barrenechea – Fullstack Developer.
 
-I have great interest in the cryptocurrency world and machine learning. 
-Currently I'm working as a fullstack developer in my own business.
+I'm passionate about building useful tools, learning how systems work, and creating clean, maintainable code. I have a strong interest in cryptocurrency, machine learning, and open source technologies.
+
+Right now, I'm working on my own projects and exploring ways to combine AI, web platforms, and automation to solve real-world problems. Always learning, always building.
